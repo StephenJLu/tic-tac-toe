@@ -2,6 +2,10 @@
 
 https://react.dev/learn/tutorial-tic-tac-toe
 
+## Try it out!
+
+https://tictactoe.stephenjlu.com/
+
 ## Currently Working on:
 
 If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game, listed in order of increasing difficulty:
