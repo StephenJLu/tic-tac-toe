@@ -1,3 +1,3 @@
-npm run build
+1) When you are ready, execute 'npm run build'
 
-deploy 'build' on cloudflare
+2) Deploy 'build' on your platform of choice
